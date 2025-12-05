@@ -1,0 +1,1 @@
+Analiza klasycznego zbioru danych Iris, obejmująca eksplorację danych (EDA), analizę statystyczną oraz wizualizacje zależności między cechami roślin. Projekt podsumowuje najważniejsze wnioski dotyczące morfologii irysów i stanowi solidną bazę pod modele klasyfikacyjne.
